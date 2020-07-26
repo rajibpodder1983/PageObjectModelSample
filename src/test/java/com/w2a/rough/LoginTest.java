@@ -20,7 +20,7 @@ public class LoginTest {
 		CreateAccountPage cap = account.gotoCreateAccounts();
 		cap.createAccount("Raman");
 		
-		//driver.manage.window.maximze()
+		//driver.manage.window.maximize();
 
 		
 		
