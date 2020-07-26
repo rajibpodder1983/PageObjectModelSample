@@ -30,7 +30,7 @@ import com.w2a.utilities.ExtentManager;
 import com.w2a.utilities.Utilities;
 
 public class Page {
-	//Rajib Updated
+	//Rajib Podder Updated
 
 	public static WebDriver driver;
 	public static Properties config = new Properties();
